@@ -1,0 +1,49 @@
+{
+    "explorer.openEditors.visible": 0,
+    "editor.snippetSuggestions": "top",
+    "emmet.showAbbreviationSuggestions": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false,
+    "workbench.colorTheme": "Seti Black",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 21,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 24,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Anonymous Pro",
+    "editor.tabSize": 2,
+    "editor.lineHeight": 0,
+    "markdown.preview.fontSize": 36,
+    "editor.minimap.enabled": false,
+    "eslint.enable": true,
+    "eslint.validate": [
+        {
+            "language": "vue",
+            "autoFix": true
+        },
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "javascript",
+            "autoFix": true
+        }
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.suggestSelection": "first",
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "liveshare.featureSet": "insiders"
+}
